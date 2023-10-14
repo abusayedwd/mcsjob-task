@@ -7,8 +7,8 @@ import academy from '../../../public/Mask group (4).png'
 const Platform = () => {
    return (
       <div>
-             <div className="md:flex md:gap-3 items-center justify-between py-8">
-               <div className='w-[50%]'>
+             <div className="md:flex w-[90%] mx-auto mt-12 md:gap-3 items-center justify-between py-8">
+               <div className='md:w-[50%]'>
                      <div>
                      <h1 className="text-4xl font-bold mb-4"> <span className="text-blue-500">All-in-One</span> platform <br />that Makes Easier</h1>
              <p>We are more than a platform;  We are your <br /> success partner. Discover our services to achieve <br /> your business and educational goals</p>
@@ -35,7 +35,7 @@ const Platform = () => {
                </div>
 
 
-               <div className='w-[50%]'>
+               <div className='md:w-[50%]'>
                      <div className="flex items-center justify-evenly">
                         <div className='text-right'> 
                            <p className='bg-slate-200 p-1 rounded-md text-sm'>Hey, check out loreumipsum services.</p>

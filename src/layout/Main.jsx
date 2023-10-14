@@ -31,7 +31,7 @@ const Main = () => {
           </motion.div> 
         </div>
       ) : (
-        <div className='w-[90%] mx-auto'>
+        <div>
            <Navbar></Navbar>
            <Outlet></Outlet>
            <Footer></Footer>

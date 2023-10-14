@@ -1,0 +1,58 @@
+[
+   {
+     "title": "Commencement of business",
+     "number": "1st",
+     "description": "Invested shareholders must confirm payment and office address",
+     "dueDate": "Within 180 days ",
+     "within30Days": " ₹65",
+     "perMonth": "₹300 "
+      
+      
+   },
+   {
+     "title": "Renewal of License",
+     "number": "2nd",
+     "description": "License holders must apply for renewal by the specified date.",
+     "dueDate": "Renewal deadline",
+     "within30Days": "₹20",
+     "perMonth": "₹200"
+     
+   },
+   {
+     "title": "Tax Payment",
+     "number": "3rd",
+     "description": "Taxpayers must pay their taxes on time to avoid penalties.",
+     "dueDate": "Tax due date",
+     "within30Days": " ₹200"
+      
+      
+   },
+   {
+     "title": "Employee Benefits",
+     "number": "4th",
+     "description": "Employees can enroll in benefit programs during the enrollment period.",
+     "dueDate": "Enrollment deadline",
+     "within30Days": "₹20",
+     "perMonth": "₹100 "
+      
+   },
+   {
+     "title": "Project Submission",
+     "number": "5th",
+     "description": "Students must submit their projects by the specified deadline.",
+     "dueDate": "Submission deadline",
+     "within30Days": "₹200",
+     "perMonth": "₹50 "
+     
+   },
+   {
+     "title": "MCA Form MGT-7",
+     "number": "6th",
+     "description": "Students must submit their projects by the specified deadline.",
+     "dueDate": "Submission deadline",
+     "within30Days": "$54",
+     "perMonth": "₹50 "
+      
+   }
+ ]
+ 

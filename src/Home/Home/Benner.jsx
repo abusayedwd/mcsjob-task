@@ -6,7 +6,7 @@
 const Benner = () => {
   return (
     <div>
-      <div className="md:flex bennerr py-20">
+      <div className="md:flex bennerr py-20 w-[90%] mx-auto">
         <div className='px-6'>
           <h1 className="text-4xl font-sans font-bold">
             Find <span className="text-blue-500">Partners</span> (CAs) <br />{" "}

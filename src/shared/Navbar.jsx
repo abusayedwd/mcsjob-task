@@ -1,5 +1,5 @@
   
- import { FaAngleDown, FaBeer } from 'react-icons/fa';
+ import { FaAngleDown } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
@@ -14,7 +14,7 @@ const Navbar = () => {
    </>
         return (
                 <div>
-                      <div className="navbar">
+                      <div className="navbar w-[90%] mx-auto">
   <div className="navbar-start">
     <div className="dropdown">
       <label tabIndex={0} className="btn btn-ghost lg:hidden">
