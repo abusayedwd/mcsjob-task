@@ -1,6 +1,7 @@
   
  import { FaAngleDown } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
+import logo from '../../public/image 1.png'
 
 const Navbar = () => {
 
@@ -25,7 +26,7 @@ const Navbar = () => {
       </ul>
     </div>
      
-    <Link to='/' className="btn btn-ghost normal-case text-xl text-rose-800 font-bold">logoipsum.</Link>
+    <Link to='/'> <img src={logo} alt="" />  </Link>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 "> 
           {navitem} 
