@@ -21,7 +21,7 @@ const Benner = () => {
               <input
                 type="text"
                 placeholder="Search by name..."
-                className="input input-bordered w-80"
+                className="input input-bordered md:w-80 w-48"
               />
               <button className="px-4 py-1 search-btn text-xs font-semibold">
                  Search
