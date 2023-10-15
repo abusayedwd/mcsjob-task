@@ -23,7 +23,7 @@ const JoinSection = () => {
       <div className="grid md:grid-cols-3  gap-6">
         {cards.map((card, index) => (
           <div key={index}>
-            <div className="card shadow-2xl p-3 px-4 relative">
+            <div className="card shadow-xl p-3 px-4 relative">
               <h1 className="font-bold text-center">{card.title}</h1>
               <p className="text-center">{card.description}</p>
               <div className="flex p-3 justify-around bg-slate-100 rounded-lg">
@@ -31,8 +31,7 @@ const JoinSection = () => {
                   <span className="text-blue-400 font-semibold">Due Date </span>
                   : <br />
                   {card.dueDate}
-                </p>
-
+                </p> 
                 <p>
                   <span className="text-orange-500 font-semibold">
                     Penalty fees
