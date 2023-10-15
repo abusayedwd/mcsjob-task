@@ -1,15 +1,11 @@
 import Benner from "./Home/Benner";
 import JoinSection from "./Home/JoinSection";
-import Platform from "./Home/Platform";
-import SearchItem from "./Home/SearchItem";
-
- 
+import Platform from "./Home/Platform"; 
 
 const Home = () => {
    return (
       <div>
               <Benner></Benner>
-              <SearchItem></SearchItem>
               <JoinSection></JoinSection>
               <Platform></Platform>
       </div>
